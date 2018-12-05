@@ -1,2 +1,2 @@
 # Capstone
-Capstone Project Coursera
+Capstone Project Coursera - Toronto Neighborhood Clustering
